@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KursatCodes
 - 👀 I’m interested in programing. 
-- 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on Java and Javascript
+- 🌱 I’m currently learning Kotlin 
+- 💞️ I’m looking to collaborate on Kotlin and Java
 - 📫 How to reach me github :) 
 
 <!---
